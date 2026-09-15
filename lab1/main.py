@@ -102,7 +102,7 @@ def reset():
 
 root = tk.Tk()
 root.title("обработчик фоток")
-root.geometry("1100x750")
+root.geometry("1920x1080")
 
 left = Frame(root)
 left.pack(side="left", padx=10, pady=10)
